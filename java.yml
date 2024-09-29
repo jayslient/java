@@ -1,1 +1,1 @@
-FROM oracle/java:8
+FROM openjdk:8
